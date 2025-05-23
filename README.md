@@ -11,15 +11,6 @@
 
 ---
 
-### 🧠 Vài dòng về mình
-
-- 🔧 Dev chuyên sâu PHP & Laravel, thỉnh thoảng phá đảo bằng JavaScript  
-- 💻 Thợ săn bug chuyên nghiệp, backend frontend không ngán  
-- 🌱 Luôn tìm cách tối ưu code, viết sạch hơn và... ngủ nhiều hơn (đang tập)  
-- ☕ Tín đồ cà phê, coder 24/7 (thỉnh thoảng ngủ nướng)
-
----
-
 ### 🔧 Dụng cụ hàng ngày:
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
